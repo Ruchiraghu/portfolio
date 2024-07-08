@@ -11,7 +11,7 @@ export default function Projects() {
       <div className={styles.ProjectsContainer}> {/* Ensure <div> is lowercase */}
         <ProjectCard
           src={weather}
-          link="https://github.com/Ruchiraghu/weather_app.git"
+          link="https://weatherapp-9i0h.onrender.com"
           h3="Weather App"
           p="Streaming App"
         />

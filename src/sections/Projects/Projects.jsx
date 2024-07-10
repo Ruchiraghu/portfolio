@@ -11,13 +11,13 @@ export default function Projects() {
       <div className={styles.ProjectsContainer}> {/* Ensure <div> is lowercase */}
         <ProjectCard
           src={weather}
-          link="https://weatherapp-9i0h.onrender.com"
+          link="https://weatherapp-9i0h.onrender.com/"
           h3="Weather App"
           p="Streaming App"
         />
         <ProjectCard
           src={food_delivery}
-          link="https://github.com/Ruchiraghu/Food_delivery.git"
+          link="https://appforfood.netlify.app/"
           h3="Food Delivery App"
           p="Streaming App"
         />

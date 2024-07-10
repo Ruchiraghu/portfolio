@@ -14,10 +14,10 @@ export default function Hero() {
         <h1>Ruchi {/* <br /> */}Raghuwanshi</h1>
         <h2>Full Stack Developer</h2>
         <span>
-          <a href="https://linkedin.com/" target="_blank" />
-          <img src={linkedinIcon} alt="Linkedin icon" />
-          <a href="https://github.com/" target="_blank" />
-          <img src={githubIcon} alt="github icon" />
+          <a href="https://www.linkedin.com/in/ruchi-raghuwanshi-3675a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" >
+          <img src={linkedinIcon} alt="Linkedin icon" /></a>
+          <a href="https://github.com/Ruchiraghu?tab=repositories" target="_blank" >
+          <img src={githubIcon} alt="github icon" /></a>
         </span>
         <p className={styles.description}>
           Passionate Full Stack Developer with expertise in MERN stack and Java,
